@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
 
 /// Classe que centraliza as cores utilizadas no aplicativo.
-/// Segue as diretrizes de design minimalista com tons de azul petróleo e amarelo claro.
 class AppColors {
-  // Azul Petróleo (Cor principal para botões, destaques e hierarquia visual)
+  // Azul Petróleo (Cor principal)
   static const Color tealBlue = Color.fromARGB(255, 0, 77, 60);
 
-  // Amarelo Claro (Cor de fundo ou para elementos secundários que trazem leveza)
+  // Amarelo Claro (Cor de fundo)
   static const Color lightYellow = Color(0xFFFFFDE7);
 
   // Cores Neutras
